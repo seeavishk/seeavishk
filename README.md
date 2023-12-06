@@ -1,3 +1,4 @@
+![logo](Black Minimal Motivation Quote LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Aviral Shukla</h1>
 <img align="center" src="https://github.com/seeavishk/seeavishk/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png alt="banner-image">
 <h3 align="center">An explorer in tech who is indulge in Web D,DSA and the python with opencv and libraires</h3>
