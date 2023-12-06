@@ -1,8 +1,7 @@
 ![logo](https://github.com/seeavishk/seeavishk/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aviral Shukla</h1>
-<img align="center" src="https://github.com/seeavishk/seeavishk/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png alt="banner-image">
 <h3 align="center">An explorer in tech who is indulge in Web D,DSA and the python with opencv and libraires</h3>
-<img align="right" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qn2l9fn39l8co0prfj2qc7wl9v0a7xqwn3db777i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
+<img align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAM/coding-hello-world.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seeavishk&label=Profile%20views&color=0e75b6&style=flat" alt="seeavishk" /> </p>
 
 - 🔭 I’m currently working on **my dsa skills**
